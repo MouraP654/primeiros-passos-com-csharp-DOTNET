@@ -1,0 +1,13 @@
+C:\Users\Rafael Moura\Desktop\Curso C# e .Net\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\Users\Rafael Moura\Desktop\Curso C# e .Net\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\Users\Rafael Moura\Desktop\Curso C# e .Net\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\Users\Rafael Moura\Desktop\Curso C# e .Net\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\Users\Rafael Moura\Desktop\Curso C# e .Net\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\Rafael Moura\Desktop\Curso C# e .Net\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\Rafael Moura\Desktop\Curso C# e .Net\Revisao\obj\Debug\netcoreapp3.1\Revisao.csprojAssemblyReference.cache
+C:\Users\Rafael Moura\Desktop\Curso C# e .Net\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\Users\Rafael Moura\Desktop\Curso C# e .Net\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\Users\Rafael Moura\Desktop\Curso C# e .Net\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Moura\Desktop\Curso C# e .Net\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\Rafael Moura\Desktop\Curso C# e .Net\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\Rafael Moura\Desktop\Curso C# e .Net\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache
